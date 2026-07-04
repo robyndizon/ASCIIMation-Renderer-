@@ -1,0 +1,12 @@
+{
+    "files.eol": "\n",
+    "liveshare.increasedGuestLimit": false,
+    "liveshare.populateGitCoAuthors": "always",
+    "files.associations": {
+        "cstddef": "cpp"
+    },
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "inlineChat.accessibleDiffView": "off",
+    "terminal.integrated.initialHint": false
+}
